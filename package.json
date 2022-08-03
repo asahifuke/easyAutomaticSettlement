@@ -1,0 +1,19 @@
+{
+  "name": "easyautomaticsettlement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^103.0.0",
+    "selenium-webdriver": "^4.3.1"
+  },
+  "scripts": {
+    "selenium": "node easyAutomaticSettlement.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
